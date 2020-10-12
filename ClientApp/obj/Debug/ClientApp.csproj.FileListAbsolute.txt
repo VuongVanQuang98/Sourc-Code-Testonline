@@ -1,0 +1,12 @@
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\obj\Debug\ClientApp.LoginForm.resources
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\obj\Debug\ClientApp.ExamFinished.resources
+C:\Users\PA\Downloads\VISual\DemoTestOnline\ClientApp\obj\Debug\ClientApp.FormTest.resources

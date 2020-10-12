@@ -1,0 +1,11 @@
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\bin\Debug\DemoTestOnline.exe.config
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\bin\Debug\DemoTestOnline.exe
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\bin\Debug\DemoTestOnline.pdb
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\obj\Debug\AdminApp.csprojAssemblyReference.cache
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\obj\Debug\DemoTestOnline.Form1.resources
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\obj\Debug\DemoTestOnline.LoginForm.resources
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\obj\Debug\DemoTestOnline.Properties.Resources.resources
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\obj\Debug\AdminApp.csproj.GenerateResource.cache
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\obj\Debug\AdminApp.csproj.CoreCompileInputs.cache
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\obj\Debug\DemoTestOnline.exe
+C:\Users\PA\Downloads\VISual\DemoTestOnline\DemoTestOnline\obj\Debug\DemoTestOnline.pdb
